@@ -25,8 +25,6 @@
 
 <br />
 <img alt="Footer illustration" src="./assets/footer.png" />
-<br />
-
 <hr />
 <div align="center">
   <i>
