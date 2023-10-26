@@ -21,10 +21,10 @@
 🤝 **I am currently open to work**: If you have a challenging opportunity, I would love to work with you!
 
 <hr />
-<center>
+<div align="center">
   <i>
     Please feel free to reach out to me on <a href="https://www.linkedin.com/in/yurixander/">LinkedIn</a> for business inquiries.<br/>
     Images generated with DALL·E 3, and edited with Figma.<br/>
     &copy; 2023 Yurixander Ricardo
   </i>
-</center>
+</div>
