@@ -1,4 +1,4 @@
-👋 Howdy! I'm a (mostly self-taught) Computer Science student seeking a challenging software engineering role to both apply and further develop my skills.
+<img alt="Header image" src="./assets/header.png" />
 
 #### 🛠 Skills & technologies
 - Proficient in: Rust, TypeScript, JavaScript, C/C++.
