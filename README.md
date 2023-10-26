@@ -1,24 +1,21 @@
-### Hi there 👋
+👋 Howdy! I'm a (mostly self-taught) Computer Science student seeking a challenging software engineering role to both apply and further develop my skills.
 
-<!--
-**yurixander/yurixander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Skills & technologies
+  ✦ Proficient in: Rust, TypeScript, JavaScript, C/C++.
+  ✦ Specialized in: Software engineering, compilers & developer tooling, functional programming.
+  ✦ Familiar with: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
+  ✦ Strong focus on writing simple, high-quality, clean, and readable code.
+  ✦ Emphasis on efficient code by utilizing proper data structures and algorithms.
 
-Here are some ideas to get you started:
+🏆 Achievements
+  ✦ Independently designed and implemented 50+ professional business websites, achieving a 90%+ client satisfaction rate.
+  ✦ Worked as a full-stack software engineer (internship & full-time), directly delivering successful project revisions to over 100 businesses.
+  ✦ Built my own compiler in Rust with advanced features like Hindley-Milner's type inference algorithm, parametric polymorphism (generics), closures, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+🚴‍♂️ Hobbies & personal interests
+  ✦ Cycling and game development.
+  ✦ Chess & strategy games.
+  ✦ Animals, nature, pets.
+  ✦ Learning about anything engineering-related (physics, mathematics, etc.).
 
-🔭 I'm a self-taught software developer, with a keen interest in the functional programming paradigm.
-
-🌱 Currently focusing on personal projects and professional development!
-
-Here are some of my projects:
-
-* [**libf**](https://github.com/yurixander/libf): A functional data structures and algorithms library written in TypeScript. The goal is for it to serve as a basis or foundations for my functional programming projects. It consists of functional & immutable implementations of essential data structures, such as hash maps, stacks, linked lists, and more. Furthermore, I have also implemented advanced concepts such as a custom effect system (with the help of JavaScript's `throw`), iterators, and monads.
-* [**note-taking-app**](https://github.com/yurixander/note-taking-app): A skeleton application that I developed for use volunteer use.
+🤝 If you have a challenging opportunity, I would love to work with you!
