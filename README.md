@@ -1,9 +1,9 @@
 <img alt="Header image" src="./assets/header.png" />
 
 #### 🛠 Skills & technologies
-- Proficient in: Rust, TypeScript, JavaScript, C/C++.
-- Specialized in: Software engineering, compilers & developer tooling, functional programming.
-- Familiar with: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
+- **Proficient in**: Rust, TypeScript, JavaScript, C/C++.
+- **Specialized in**: Software engineering, compilers & developer tooling, functional programming.
+- **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
 - Strong focus on writing simple, high-quality, clean, and readable code.
 - Emphasis on efficient code by utilizing proper data structures and algorithms.
 
@@ -18,4 +18,4 @@
 - Animals, nature, pets.
 - Learning about anything engineering-related (physics, mathematics, etc.).
 
-🤝 If you have a challenging opportunity, I would love to work with you!
+🤝 **I am currently open to work**: If you have a challenging opportunity, I would love to work with you!
