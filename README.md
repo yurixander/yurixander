@@ -1,4 +1,4 @@
-<img alt="Header image" src="./assets/header.png" />
+<img alt="Header illustration" src="./assets/header.png" />
 
 #### 🛠 Skills & Technologies
 - **Proficient in**: Rust, TypeScript, JavaScript, C/C++.
@@ -19,6 +19,8 @@
 - Learning about anything engineering-related (physics, mathematics, etc.).
 
 🤝 **I am currently open to work**: If you have a challenging opportunity, I would love to work with you!
+
+<img alt="Footer illustration" src="./assets/footer.png" />
 
 <hr />
 <div align="center">
