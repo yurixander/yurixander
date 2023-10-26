@@ -1,6 +1,13 @@
 <img alt="Header illustration" src="./assets/header.png" />
 
-#### 🛠 Skills & Technologies
+<div align="center">
+  <img alt="C++ badge" src="https://img.shields.io/badge/C%2B%2B-%23eb4d4b?style=for-the-badge&logo=c%2B%2B">
+  <img alt="Rust badge" src="https://img.shields.io/badge/Rust-%23f0932b?style=for-the-badge&logo=rust" />
+  <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-%23686de0?style=for-the-badge&logo=typescript&logoColor=%23fff">
+  <img alt="Python badge" src="https://img.shields.io/badge/Python-%23e056fd?style=for-the-badge&logo=python&logoColor=%23fff">
+</div>
+
+#### 🛠 Technical Skills and Principles
 - **Proficient in**: Rust, TypeScript, JavaScript, C/C++.
 - **Specialized in**: Software engineering, compilers & developer tooling, functional programming.
 - **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
