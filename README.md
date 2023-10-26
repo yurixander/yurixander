@@ -18,9 +18,14 @@
 - Animals, nature, pets.
 - Learning about anything engineering-related (physics, mathematics, etc.).
 
-🤝 **I am currently open to work**: If you have a challenging opportunity, I would love to work with you!
+<div align="center">
+  <strong>🤝<br />I am currently open to work</strong><br />
+  <i>If you have a challenging opportunity, <br />I would love to work with you!</i>
+</div>
 
+<br />
 <img alt="Footer illustration" src="./assets/footer.png" />
+<br />
 
 <hr />
 <div align="center">
