@@ -8,7 +8,7 @@
 </div>
 
 #### 🛠 Technical Skills and Principles
-- **Proficient in**: Rust, TypeScript, JavaScript, C/C++.
+- **Proficient in**: Rust, TypeScript, JavaScript, C++.
 - **Specialized in**: Software engineering, compilers & developer tooling, functional programming.
 - **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
 - Strong focus on writing simple, high-quality, clean, and readable code.
