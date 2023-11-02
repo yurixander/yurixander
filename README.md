@@ -38,7 +38,7 @@
 </a>
 
 <div align="center">
-  <strong>🤝<br />I am currently open to work</strong><br />
+  <strong><img width="100" src="./assets/handshake.png" /><br />I am currently open to work</strong><br />
   <i>If you have a challenging opportunity, <br />I would love to work with you!</i>
 </div>
 
