@@ -25,6 +25,18 @@
 - Animals, nature, pets.
 - Learning about anything engineering-related (physics, mathematics, etc.).
 
+#### 🌟 GitHub Organizations & Projects
+
+<a href="https://github.com/codex-tooling/tails">
+  <img width="100" src="./assets/tails-project-logo.png" />
+</a>
+<a href="https://github.com/halfmoongames">
+  <img width="100" src="./assets/halfmoongames-org-logo.png" />
+</a>
+<a href="https://github.com/codex-tooling">
+  <img width="100" src="./assets/codex-tooling-org-logo.png" />
+</a>
+
 <div align="center">
   <strong>🤝<br />I am currently open to work</strong><br />
   <i>If you have a challenging opportunity, <br />I would love to work with you!</i>
