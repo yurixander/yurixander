@@ -28,13 +28,13 @@
 #### 🌟 GitHub Organizations & Projects
 
 <a href="https://github.com/codex-tooling/tails">
-  <img width="100" src="./assets/tails-project-logo.png" />
+  <img width="80" src="./assets/tails-project-logo.png" />
 </a>
 <a href="https://github.com/halfmoongames">
-  <img width="100" src="./assets/halfmoongames-org-logo.png" />
+  <img width="80" src="./assets/halfmoongames-org-logo.png" />
 </a>
 <a href="https://github.com/codex-tooling">
-  <img width="100" src="./assets/codex-tooling-org-logo.png" />
+  <img width="80" src="./assets/codex-tooling-org-logo.png" />
 </a>
 
 <div align="center">
