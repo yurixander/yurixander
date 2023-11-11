@@ -36,6 +36,9 @@
 <a href="https://github.com/codex-tooling">
   <img width="80" src="./assets/codex-tooling-org-logo.png" />
 </a>
+<a href="https://github.com/yurixander/mirage">
+  <img width="80" src="./assets/mirage-project-logo.png" />
+</a>
 
 <div align="center">
   <strong><img width="100" src="./assets/handshake.png" /><br />I am currently open to work</strong><br />
