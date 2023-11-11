@@ -1,10 +1,10 @@
-<img alt="Header illustration" src="./assets/header.png" />
+<img src="./assets/header.png" />
 
 <div align="center">
-  <img alt="C++ badge" src="https://img.shields.io/badge/C%2B%2B-%23eb4d4b?style=for-the-badge&logo=c%2B%2B">
-  <img alt="Rust badge" src="https://img.shields.io/badge/Rust-%23f0932b?style=for-the-badge&logo=rust" />
-  <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-%23686de0?style=for-the-badge&logo=typescript&logoColor=%23fff">
-  <img alt="Python badge" src="https://img.shields.io/badge/Python-%23e056fd?style=for-the-badge&logo=python&logoColor=%23fff">
+  <img src="https://img.shields.io/badge/C%2B%2B-%23eb4d4b?style=for-the-badge&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/Rust-%23f0932b?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/TypeScript-%23686de0?style=for-the-badge&logo=typescript&logoColor=%23fff">
+  <img src="https://img.shields.io/badge/Python-%23e056fd?style=for-the-badge&logo=python&logoColor=%23fff">
 </div>
 
 #### 🛠 Technical Skills and Principles
@@ -46,13 +46,13 @@
 </div>
 
 <br />
-<img alt="Footer illustration" src="./assets/footer.png" />
+<img src="./assets/footer.png" />
 <hr />
 <div align="center">
   <i>
     Please feel free to reach out to me on <a href="https://www.linkedin.com/in/yurixander/">LinkedIn</a> for business inquiries.<br />
     Images generated with DALL·E 3, and edited with Figma.<br />
     &copy; 2023 Yurixander Ricardo<br /><br />
-    <img alt="Thumbs up illustration" src="./assets/thumbs-up.png" />
+    <img src="./assets/thumbs-up.png" />
   </i>
 </div>
