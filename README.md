@@ -12,7 +12,7 @@
 - **Specialized in**: Software engineering, compilers & developer tooling, functional programming.
 - **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
 - Strong focus on writing simple, high-quality, clean, and readable code.
-- Emphasis on efficient code by utilizing proper data structures and algorithms.
+- Emphasis on efficient code by utilizing proper data structures and algorithms (100+ LeetCode medium problems solved).
 
 #### 🏆 Achievements
 - Independently designed and implemented 50+ professional business websites, achieving a 90%+ client satisfaction rate.
