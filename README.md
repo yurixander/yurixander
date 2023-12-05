@@ -28,16 +28,16 @@
 #### 🌟 GitHub Organizations & Projects
 
 <a href="https://github.com/codex-tooling/tails">
-  <img width="70" src="./assets/tails-project-logo.png" />
+  <img width="60" src="./assets/tails-project-logo.png" />
 </a>
 <a href="https://github.com/halfmoongames">
-  <img width="70" src="./assets/halfmoongames-org-logo.png" />
+  <img width="60" src="./assets/halfmoongames-org-logo.png" />
 </a>
 <a href="https://github.com/codex-tooling">
-  <img width="70" src="./assets/codex-tooling-org-logo.png" />
+  <img width="60" src="./assets/codex-tooling-org-logo.png" />
 </a>
 <a href="https://github.com/yurixander/mirage">
-  <img width="70" src="./assets/mirage-project-logo.png" />
+  <img width="60" src="./assets/mirage-project-logo.png" />
 </a>
 
 <div align="center">
