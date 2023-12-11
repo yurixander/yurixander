@@ -40,11 +40,6 @@
   <img width="60" src="./assets/mirage-project-logo.png" />
 </a>
 
-<div align="center">
-  <strong><img width="100" src="./assets/handshake.png" /><br />I am currently open to work</strong><br />
-  <i>If you have a challenging opportunity, <br />I would love to work with you!</i>
-</div>
-
 <br />
 <img src="./assets/footer.png" />
 <hr />
