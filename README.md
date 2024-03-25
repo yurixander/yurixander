@@ -33,14 +33,3 @@
 <a href="https://github.com/yurixander/mirage">
   <img width="60" src="./assets/mirage-project-logo.png" />
 </a>
-
-<br />
-<br />
-<hr />
-<div align="center">
-  <i>
-    Images generated with DALL·E 3, and edited with Figma.<br />
-    &copy; 2023 Yurixander Ricardo<br /><br />
-    <img src="./assets/thumbs-up.png" />
-  </i>
-</div>
