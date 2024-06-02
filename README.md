@@ -12,11 +12,11 @@
 
 #### 🛠 Technical Skills and Principles
 
-- **Proficient in**: Rust, TypeScript, JavaScript, C++.
-- **Specialized in**: Software engineering, compilers & developer tooling, functional programming.
+- **Proficient in**: Rust, TypeScript, C++.
+- **Specialized in**: Web, blockchain, compilers.
 - **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
-- Strong focus on writing simple, high-quality, clean, and readable code.
-- 100+ LeetCode medium problems solved, 300+ total.
+- Passion for writing clean, high-quality code.
+- 100+ LeetCode mediums solved, 300+ total. Top 12%.
 
 #### ♞ Hobbies & Personal Interests
 
