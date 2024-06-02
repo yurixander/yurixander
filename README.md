@@ -11,6 +11,7 @@
 <hr />
 
 #### 🛠 Technical Skills and Principles
+
 - **Proficient in**: Rust, TypeScript, JavaScript, C++.
 - **Specialized in**: Software engineering, compilers & developer tooling, functional programming.
 - **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
@@ -18,6 +19,7 @@
 - 100+ LeetCode medium problems solved, 300+ total.
 
 #### ♞ Hobbies & Personal Interests
+
 - Chess & strategy games.
 - Animals, nature, cats.
 - Learning about anything engineering-related (physics, mathematics, etc.).
@@ -38,3 +40,9 @@
 </a>
 
 <hr />
+
+<p align="center">
+  <i>
+   <a href="mailto:hello@yurixander.dev">Contact me</a> &bull; <a href="https://linkedin.com/in/yurixander">Let's connect on LinkedIn</a> &bull; &copy;2024
+  </i>
+</p>
