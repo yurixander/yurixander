@@ -1,5 +1,13 @@
 <img src="./assets/header.png" />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,rust,cpp,react,nextjs,tailwind,git,electron,mysql,webflow,figma" />
+  </a>
+</p>
+
+<br />
+
 <hr />
 
 #### 🛠 Technical Skills and Principles
@@ -7,12 +15,11 @@
 - **Specialized in**: Software engineering, compilers & developer tooling, functional programming.
 - **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
 - Strong focus on writing simple, high-quality, clean, and readable code.
-- Emphasis on efficient code by utilizing proper data structures and algorithms (100+ LeetCode medium problems solved).
+- 100+ LeetCode medium problems solved, 300+ total.
 
-#### 🚴‍♂️ Hobbies & Personal Interests
-- Cycling and game development.
+#### ♞ Hobbies & Personal Interests
 - Chess & strategy games.
-- Animals, nature, pets.
+- Animals, nature, cats.
 - Learning about anything engineering-related (physics, mathematics, etc.).
 
 #### 🌟 GitHub Organizations & Projects
@@ -29,3 +36,5 @@
 <a href="https://github.com/yurixander/mirage">
   <img width="32" src="./assets/mirage-project-logo.png" />
 </a>
+
+<hr />
