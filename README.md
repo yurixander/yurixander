@@ -10,7 +10,7 @@
 
 <hr />
 
-#### 🛠 Technical Skills and Principles
+#### 🛠 Technical Skills
 
 - **Proficient in**: Rust, TypeScript, C++.
 - **Specialized in**: Web, blockchain, compilers.
