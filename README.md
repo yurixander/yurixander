@@ -12,7 +12,7 @@
 
 #### 🛠 Technical Skills
 
-- **Proficient in**: Rust, TypeScript, C++.
+- **Proficient in**: Rust, TypeScript.
 - **Specialized in**: Web, blockchain, compilers.
 - **Familiar with**: Git, SQL & MongoDB, unit-testing, end-to-end (E2E) tests, debugging (LLDB, breakpoints).
 - Passion for writing clean, high-quality code.
@@ -43,6 +43,6 @@
 
 <p align="center">
   <i>
-   <a href="mailto:hello@yurixander.dev">Contact me</a> &bull; <a href="https://linkedin.com/in/yurixander">Let's connect on LinkedIn</a> &bull; &copy;2024
+   <a href="mailto:hello@yurixander.dev">Contact me</a> &bull; <a href="https://linkedin.com/in/yurixander">Let's connect on LinkedIn</a>
   </i>
 </p>
